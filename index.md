@@ -1,6 +1,6 @@
 # A H1 Heading
 
-- [Module 1](modules/m1/m1.md)
+- [Module 1](modules/m1/m1)
 - [Object Oriented](#object-oriented)
 - [Functions](#functions)
 - [Trailing Lambdas](#trailing-lambdas)
