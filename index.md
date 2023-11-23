@@ -1,2 +1,4 @@
 # A H1 Heading
-`code goes here`
+`fun addNumber(x:int,y:int){
+  return x + y
+}`
